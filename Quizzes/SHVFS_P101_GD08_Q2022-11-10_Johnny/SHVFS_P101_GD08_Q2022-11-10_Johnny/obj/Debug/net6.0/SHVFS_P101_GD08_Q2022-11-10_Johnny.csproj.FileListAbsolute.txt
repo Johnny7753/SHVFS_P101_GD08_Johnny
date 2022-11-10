@@ -13,3 +13,18 @@ D:\Repositories\SHVFS_P101_GD08\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD
 D:\Repositories\SHVFS_P101_GD08\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.pdb
 D:\Repositories\SHVFS_P101_GD08\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.genruntimeconfig.cache
 D:\Repositories\SHVFS_P101_GD08\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\ref\SHVFS_P101_GD08_Q2022-11-10_Johnny.dll
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.exe
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.deps.json
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.runtimeconfig.json
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.dll
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\bin\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.pdb
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.AssemblyInfoInputs.cache
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.AssemblyInfo.cs
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.dll
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\refint\SHVFS_P101_GD08_Q2022-11-10_Johnny.dll
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.pdb
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\SHVFS_P101_GD08_Q2022-11-10_Johnny.genruntimeconfig.cache
+C:\Users\GD Student\Desktop\GitHub\SHVFS_P101_GD08_Johnny\Quizzes\SHVFS_P101_GD08_Q2022-11-10_Johnny\SHVFS_P101_GD08_Q2022-11-10_Johnny\obj\Debug\net6.0\ref\SHVFS_P101_GD08_Q2022-11-10_Johnny.dll

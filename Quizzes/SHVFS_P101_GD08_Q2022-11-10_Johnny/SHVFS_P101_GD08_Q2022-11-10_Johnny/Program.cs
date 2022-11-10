@@ -7,13 +7,14 @@
             string name;
             string secretword;
             string guessword;
+            int i;
             Console.WriteLine($"Welcome! Please enter your name!");
             name=Console.ReadLine();
             Console.Clear();
             Random random = new Random();
             int secret = random.Next(97, 123);
-            secretword=Convert.ToString(secret);
-            for (int i = 0; ;i++)
+            secretword=Convert.ToChar(secret).ToString();
+            for (i = 1; ;i++)
             {
                 Console.WriteLine($"Welcome {name}! Let's guess what the secret word is!\nPlease enter a word!");
                 guessword = Console.ReadLine();
@@ -25,7 +26,7 @@
                 }
                 Console.Clear();
             }
-            Console.WriteLine($"You are right!");
+            Console.WriteLine($"You are right!You have guessed {i} times");
         }
     }
 }
