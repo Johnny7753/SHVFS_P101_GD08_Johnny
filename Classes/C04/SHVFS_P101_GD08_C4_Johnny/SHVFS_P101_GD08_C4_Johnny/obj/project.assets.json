@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositories\\SHVFS_P101_GD08\\SHVFS_P101_GD08_C4\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny.csproj",
+      "projectUniqueName": "C:\\Users\\GD Student\\Desktop\\GitHub\\SHVFS_P101_GD08_Johnny\\Classes\\C04\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny.csproj",
       "projectName": "SHVFS_P101_GD08_C4_Johnny",
-      "projectPath": "D:\\Repositories\\SHVFS_P101_GD08\\SHVFS_P101_GD08_C4\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny.csproj",
+      "projectPath": "C:\\Users\\GD Student\\Desktop\\GitHub\\SHVFS_P101_GD08_Johnny\\Classes\\C04\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny.csproj",
       "packagesPath": "C:\\Users\\GD Student\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositories\\SHVFS_P101_GD08\\SHVFS_P101_GD08_C4\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny\\obj\\",
+      "outputPath": "C:\\Users\\GD Student\\Desktop\\GitHub\\SHVFS_P101_GD08_Johnny\\Classes\\C04\\SHVFS_P101_GD08_C4_Johnny\\SHVFS_P101_GD08_C4_Johnny\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GD Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
